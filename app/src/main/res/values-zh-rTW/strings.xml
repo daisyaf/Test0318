@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">計算器</string>
+    <string name="height">身高</string>
+    <string name="name">姓名</string>
+    <string name="next">下一頁</string>
+    <string name="ok">確定</string>
+    <string name="weight">體重</string>
+    <string name="w_low">過輕</string>
+    <string name="w_high">過重</string>
+    <string name="w_std">適中</string>
+    <string name="msg1">您的BMI是</string>
+</resources>
